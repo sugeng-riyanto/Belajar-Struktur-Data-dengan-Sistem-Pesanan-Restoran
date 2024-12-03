@@ -97,7 +97,7 @@ Clone Repository:
 
 bash
 Copy code
-git clone https://github.com/username/ZooQueueSystem.git
+git clone https://github.com/sugeng-riyanto/Belajar-Struktur-Data-dengan-Sistem-Pesanan-Restoran.git
 cd ZooQueueSystem
 Buka di IntelliJ IDEA:
 
